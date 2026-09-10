@@ -31,7 +31,7 @@
     "d3-flextree": "2.1.2",
     "d3-graphviz": "4.1.0",
     "dayjs": "^1.10.8",
-    "echarts": "^4.8.0",
+    "echarts": "^6.0.0",
     "hsluv": "^0.1.0",
     "i18next": "^23.2.9",
     "i18next-browser-languagedetector": "^6.1.3",
